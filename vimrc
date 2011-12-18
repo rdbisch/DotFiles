@@ -9,3 +9,7 @@ set ruler
 set nohls
 set incsearch
 set backupdir=~/backups
+set t_Co=256
+syntax on
+colorscheme desert256
+
