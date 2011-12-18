@@ -1,8 +1,9 @@
 set nocompatible
+set backspace=indent,eol,start
 set autoindent
 set smartindent
-set tabstop=3
-set shiftwidth=3
+set tabstop=4
+set shiftwidth=4
 set showmatch
 set vb t_vb=
 set ruler
